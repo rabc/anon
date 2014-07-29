@@ -9,6 +9,9 @@ Um bot que tweeta cada vez que algum IP do governo Brasileiro edita a Wikipedia.
 * Empresa de Tecnologia da Informa«®«ªo e Comunica«®«ªo do Munic«¿pio de S«ªo Paulo (Prodam/SP)
 * Centro de Tecnologia da Informa«®«ªo e Comunica«®«ªo do Rio de Janeiro (Proderj)
 
+# Por que
+
+Porque queremos transpar«´ncia. Porque o governo n«ªo «± uma m«¡quina para poucos, mas sim para todos.
 
 Original README
 ==========
