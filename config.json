@@ -30,6 +30,39 @@
         ],
         "PRODERJ": [
           "200.156.32.0/19"
+        ],
+        "Assembleia Legislativa De Minas Gerais": [
+          "177.86.143.0/24",
+          "187.32.77.0/25"
+        ],
+        "Centro De Informatica E Automacao Do Estado De Santa Catarina": [
+          "200.192.64.0/20",
+          "187.44.99.64/28",
+          "189.90.55.64/29",
+          "200.19.192.0/19",
+          "189.90.55.136/30"
+        ],
+        "Cia. De Tecnol. Da Infor. E Comunicação Do Paraná ": [
+          "189.58.100.96/29",
+          "200.189.112.0/20",
+          "200.201.0.0/17",
+          "201.77.16.0/20",
+          "200.150.100.88/29",
+          "200.150.74.32/29",
+          "200.195.176.56/29"
+        ],
+        "Cia De Processamento De Dados Do Rio Grande do Sul (Procergs)": [
+          "200.198.128.0/19",
+          "200.198.160.0/20",
+          "200.233.0.0/20",
+          "200.189.128.0/19",
+          "177.43.243.96/27"
+        ],
+        "Inst. De Tec. Da Informação E Comunicação Do Espírito Santo": [
+          "201.62.32.0/20"
+        ],
+        "Companhia De Tecnologia Da Informação Estado Minas Gerais": [
+          "200.198.0.0/18"
         ]
       },
       "whitelist": {
