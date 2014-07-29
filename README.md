@@ -1,3 +1,18 @@
+# O que «±
+
+Um bot que tweeta cada vez que algum IP do governo Brasileiro edita a Wikipedia. At«± o momento, os seguintes IPs s«ªo monitorados:
+
+* Presid«´ncia da Rep«âblica
+* Senado Federal
+* C«¤mara dos Deputados
+* Prodesp (Cia Processamento de Dados do Estado de S«ªo Paulo)
+* Empresa de Tecnologia da Informa«®«ªo e Comunica«®«ªo do Munic«¿pio de S«ªo Paulo (Prodam/SP)
+* Centro de Tecnologia da Informa«®«ªo e Comunica«®«ªo do Rio de Janeiro (Proderj)
+
+
+Original README
+==========
+
 # anon
 
 [![Build Status](https://secure.travis-ci.org/edsu/anon.png)](http://travis-ci.org/edsu/anon)
