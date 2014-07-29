@@ -1,0 +1,41 @@
+{
+  "nick": "yourIrcNickHere",
+  "accounts": [
+    {
+      "consumer_key": "Zxn9ZQPEh7BQfXU5btDdvTFaY",
+      "consumer_secret": "9JsY7bpiSCKX1vuLn2frTreL9PpSE6e4b3UpOFZwywgvjRjpPM",
+      "access_token": "2688668996-Kzl8BwDDsAIm99HbfuA2verxEwfstHUGqTlkbxv",
+      "access_token_secret": "CflCwyMHS0xP9bW9HdRcfotr7XbnQ3Jw22q46G5VkxiSR",
+      "template": "Artigo {{page}} da Wikipedia foi editado anonimamente por {{name}} {{&url}}",
+      "ranges": {
+        "Presidência da República": [
+          "189.9.37.0/24",
+          "200.181.15.0/24"
+        ],
+        "Prodesp": [
+          "201.55.0.0/18",
+          "200.144.0.0/19",
+          "177.124.63.0/29",
+          "189.56.224/19"
+        ],
+        "Senado Federal": [
+          "187.54.195.0/25",
+          "201.54.48.0/20"
+        ],
+        "Câmara dos Deputados": [
+          "200.219.132.0/22"
+        ],
+        "PRODAM-SP": [
+          "177.22.128.0/19"
+        ],
+        "PRODERJ": [
+          "200.156.32.0/19"
+        ]
+      },
+      "whitelist": {
+      }
+    }
+  ]
+}
+
+
